@@ -15,5 +15,6 @@ While holding the attack button the user will attack. In addition any contact wi
 ## How to install
 Just clone this repository, and run the game executable.
 
-#images
+# Images
 
+![](./Game-Screenshot.png)
